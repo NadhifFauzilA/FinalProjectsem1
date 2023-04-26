@@ -1,5 +1,5 @@
 #include <iostream>
-#include <conio.h> //FUNGSI GETCH()
+#include <conio.h> 
 #include <vector>
 #include <windows.h>
 using namespace std;
